@@ -3,4 +3,4 @@ pandas
 pdfplumber
 Pillow
 openpyxl
-openai
+openai==0.28
